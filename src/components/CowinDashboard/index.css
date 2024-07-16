@@ -1,0 +1,9 @@
+.bg-container {
+  background-color: #1c1c2b;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+body {
+  margin: 0px;
+}
